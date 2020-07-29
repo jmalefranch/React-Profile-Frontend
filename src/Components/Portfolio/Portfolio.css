@@ -1,0 +1,44 @@
+.mega-card-portfolio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.individual-card {
+  background-color: #222831;
+  color: whitesmoke;
+  margin: 2rem auto;
+  box-shadow: 5px 2px 2px grey;
+  border-radius: 3%;
+  padding: 1%;
+}
+
+.div-fotoproyecto {
+  display: inline;
+}
+
+.imagenproyecto {
+  width: 80%;
+}
+
+.descripcion {
+  color: whitesmoke;
+  display: flex;
+  margin: 10px auto;
+  width: 80%;
+  padding: 2rem;
+  border-radius: 3%;
+  box-shadow: 5px 2px 2px grey;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -o-pre-wrap;
+}
+
+.boton-vermas {
+  background-color: #699d9e;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 0.3rem;
+  border-radius: 8%;
+}

@@ -1,0 +1,45 @@
+.Body {
+  background-color: #eeeeee;
+}
+
+.About {
+  background-color: #222831;
+  color: whitesmoke;
+  display: flex;
+  margin: 10px auto;
+  width: 80%;
+  padding: 2rem;
+  border-radius: 3%;
+  box-shadow: 5px 2px 2px grey;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -o-pre-wrap;
+}
+
+.div-foto {
+  display: inline;
+}
+
+.foto-perfil {
+  width: 100%;
+}
+
+.Descripcion {
+  align-items: center;
+  justify-content: center;
+}
+
+.skills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.skill {
+  background-color: #fbd46d;
+  color: grey;
+  margin: 0.3rem;
+  padding: 0.8rem;
+  border-radius: 6%;
+}
