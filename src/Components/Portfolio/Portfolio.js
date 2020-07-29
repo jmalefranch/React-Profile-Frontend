@@ -19,7 +19,7 @@ function Portfolio() {
               <h1>{project.name}</h1>
               <div className="div-fotoproyecto">
                 <img
-                  href={project.image}
+                  src={project.image}
                   classname="imagenproyecto"
                   alt="imagen-proyecto"
                 ></img>
